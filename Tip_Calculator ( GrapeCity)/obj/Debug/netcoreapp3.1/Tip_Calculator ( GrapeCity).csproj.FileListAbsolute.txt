@@ -1,0 +1,15 @@
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\bin\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).exe
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\bin\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).deps.json
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\bin\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).runtimeconfig.json
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\bin\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).runtimeconfig.dev.json
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\bin\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).dll
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\bin\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).pdb
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).csproj.AssemblyReference.cache
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator___GrapeCity_.Form1.resources
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).csproj.GenerateResource.cache
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).AssemblyInfoInputs.cache
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).AssemblyInfo.cs
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).csproj.CoreCompileInputs.cache
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).dll
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).pdb
+C:\Users\Aksrajjput\source\repos\Tip_Calculator ( GrapeCity)\Tip_Calculator ( GrapeCity)\obj\Debug\netcoreapp3.1\Tip_Calculator ( GrapeCity).genruntimeconfig.cache
