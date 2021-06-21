@@ -1,0 +1,372 @@
+                                                                                Test Case For Tip Calculator 
+                                                                                -----------------------------
+
+
+
+Test Case 1:  
+
+Title : Enter bill amount.
+
+Description : Try to test you are able to enter bill amount.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Run .
+
+         3: Try to enter bill amount.
+
+Expected Result: 
+
+         You successfully able to enter bill amount. 
+--------------------------------------------------------------------------------------------------------------
+
+Test Case 2:  
+
+Title : To check validation of bill amount.
+
+Description : To check whether bill amount only take numeric and float data or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to enter invalid bill amount ( Example : one thirty two).
+
+Expected Result: 
+
+         You successfully check enter bill amount only take valid bill amount. 
+---------------------------------------------------------------------------------------------------------------
+
+Test Case 3:  
+
+Title : Try to maximize the window application.
+
+Description : To check after maximize. Application is working fine or not.  
+
+Test Steps:  
+
+         1: Try to maximize the window application.
+         
+         2: Now try to enter bill amount.
+
+Expected Result: 
+
+         You successfully check your application after maximize the application.
+--------------------------------------------------------------------------------------------------------------
+Test Case 4:  
+
+Title : Try to minimize the window application.
+
+Description : To check after minimize. Application is working fine or not.  
+
+Test Steps:  
+
+         1: Try to minimize the window application.
+         
+         2: Now try to enter bill amount.
+
+Expected Result: 
+
+         You successfully check your application after minimize the application.
+-------------------------------------------------------------------------------------------------------------
+
+Test Case 5:  
+
+Title : Try to enter character in bill amount.
+
+Description : Try to enter character in bill amount field.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Run .
+
+         3: Try to enter character in bill amount.
+        
+         4: Noting is entered in Bill amount.
+
+Expected Result: 
+
+         You successfully check bill amount not take any charater as input.
+
+------------------------------------------------------------------------------------------------------------
+Test Case 6:  
+
+Title : Try to enter special character in bill amount.
+
+Description : Try to enter special character in bill amount field.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Run .
+
+         3: Try to enter special character in bill amount.
+        
+         4: Noting is entered in Bill amount.
+
+Expected Result: 
+
+         You successfully check bill amount not take any special charater as input.
+------------------------------------------------------------------------------------------------------------
+Test Case 7:  
+
+Title : Try to exit the application.
+
+Description : Try to exit the application using Window close button.  
+
+Test Steps:  
+
+         1: Try to exit application.
+         
+         2: Click on Window close button.
+
+Expected Result: 
+
+         You are successfuly able to close the application.
+
+------------------------------------------------------------------------------------------------------------
+
+
+Test Case 8:  
+
+Title : Try to increase the Tip % .
+
+Description : To check whether you are able to increase Tip % or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to increase the Tip % by numeric up botton.
+
+Expected Result: 
+
+         You successfully able to increase Tip % .  
+
+----------------------------------------------------------------------------------------------------------
+Test Case 9:  
+
+Title : Try to increase the Tip %  to its maximum limit (100).
+
+Description : To check whether you are able to increase Tip % to its maximum limit (100) or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to increase the Tip % by numeric up botton.
+
+Expected Result: 
+
+         You successfully able to increase Tip % to its maximum limit (100) .  
+
+-----------------------------------------------------------------------------------------------------------
+Test Case 10:  
+
+Title : Try to decrease the Tip %  .
+
+Description : To check whether you are able to decrease Tip % or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to decrease the Tip % by numeric down botton.
+
+Expected Result: 
+
+         You successfully able to decrease Tip % .
+----------------------------------------------------------------------------------------------------------------
+Test Case 11:  
+
+Title : Try to decrease the Tip % to its miminum limit( 0 ) .
+
+Description : To check whether you are able to decrease Tip % to its miminum limit( 0 ) or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to decrease the Tip % by numeric down botton.
+
+Expected Result: 
+
+         You successfully able to decrease Tip % to its miminum limit( 0 ) .
+---------------------------------------------------------------------------------------------------------------
+
+Test Case 12:  
+
+Title : Try to increase the Number of Person to its maximum limit (100).
+
+Description : To check whether you are able to increase Number of Person to its maximum limit (100) or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to increase the by Number of Person numeric up botton.
+
+Expected Result: 
+
+         You successfully able to increase Number of Person to its maximum limit (100).  
+
+------------------------------------------------------------------------------------------------------------------
+
+Test Case 13:  
+
+Title : Try to decrease the Number of Person.
+
+Description : To check whether you are able to decrease Number of Person or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to decrease the by Number of Person numeric down botton.
+
+Expected Result: 
+
+         You successfully able to decrease Number of Person. 
+------------------------------------------------------------------------------------------------------------------
+
+Test Case 14:  
+
+Title : Try to decrease the Number of Person to its miminum limit( 1 ).
+
+Description : To check whether you are able to decrease Number of Person to its miminum limit( 1 ) or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to decrease the by Number of Person numeric down botton.
+
+Expected Result: 
+
+         You successfully able to decrease Number of Person to its miminum limit( 1 ). 
+-------------------------------------------------------------------------------------------------------------------
+
+Test Case 15:  
+
+Title : Check Read Only mode is applied on Tip person Field or not.
+
+Description : To check whether Read Only mode is applied on Tip person Field or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to enter any thing on Tip person Field.
+
+Expected Result: 
+
+         You successfully able to check Read Only mode in Tip Person Field.
+-----------------------------------------------------------------------------------------------------------------------
+
+Test Case 16:  
+
+Title : Check Read Only mode is applied on Total Bill per person Field or not.
+
+Description : To check whether Read Only mode is applied on Total Bill per person Field or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to enter any thing on Total Bill per person Field.
+
+Expected Result: 
+
+         You successfully able to check Read Only mode in Total Bill per Person Field.  
+-----------------------------------------------------------------------------------------------------------------------
+
+Test Case 17:  
+
+Title : Click on Calculate button without entering Bill amount.
+
+Description : To Check whether you see a warning or not when you click on Calculate button without entering Bill amount.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Try to click on Calulate button without entering Bill amount.
+         
+         3: Warning Message " Please enter the Bill amount" 
+
+Expected Result: 
+
+         You successfully able to see a warning when you click on Calculate button without entering Bill amount .  
+--------------------------------------------------------------------------------------------------------------------
+
+Test Case 18:  
+
+Title : Calculate Tip and Total bill Per Person.
+
+Description : To Check whether you are able to calculate Tip and Total bill per person or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Enter Bill amount.
+         
+         3: Also enter Tip % and Number of person.
+        
+         4:Click on Calculate Button 
+
+Expected Result: 
+
+         You successfully able to calculate Tip per person and Total (per Person).
+--------------------------------------------------------------------------------------------
+
+Test Case 19:  
+
+Title : Clear Button.
+
+Description : To Check whether you are able to clear previous result or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Enter Bill amount.
+         
+         3: Also enter Tip % and Number of person.
+        
+         4:Click on Calculate Button
+         
+         5: Click on Clear Button. 
+
+Expected Result: 
+
+         You successfully able to clear previous result.
+
+-------------------------------------------------------------------------------------------
+
+Test Case 20:  
+
+Title : Exit Button.
+
+Description : To Check whether you are able exit or not.  
+
+Test Steps:  
+
+         1: Open project.
+         
+         2: Click on Exit Button. 
+
+Expected Result: 
+
+         You successfully able to exit.
+
+
+
+
+
+
